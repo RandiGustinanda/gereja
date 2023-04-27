@@ -1,0 +1,8 @@
+.navbar-scroll {
+    background-color: rgba(0, 0, 0, 0.5) !important; 
+    transition: background-color 0.5s ease-out;
+  }
+  
+.navbar-scroll.scroll {
+    background-color: rgba(0, 0, 0, 0.9) !important; 
+}
